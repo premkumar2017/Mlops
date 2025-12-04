@@ -90,6 +90,7 @@ docker run -p 8000:8000 diabetes-prediction-model
 ```
 kubectl apply -f diabetes-prediction-model-deployment.yaml
 ```
+[![Docker Hub]](https://hub.docker.com/repository/docker/prem25/diabetes-prediction-model/general)
 
 
 
